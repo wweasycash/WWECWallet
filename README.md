@@ -1,0 +1,2 @@
+# WWECWallet
+WWEC wallet
